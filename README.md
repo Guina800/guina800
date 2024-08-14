@@ -1,25 +1,23 @@
 <h1 align="center">Hey Everyone 👋, I'm Agnaldo Gonzaga</h1>
 
-<h3 align="center">🔐 Apaixonado por segurança da informação e fascinado pela criação de experiências front-end incríveis.</h3>
+<h3 align="center">🔐 Apaixonado por transformar dados em insights acionáveis e construir modelos de machine learning para resolver problemas complexos..</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="A" /> </p>
 
-- 🛡️ Segurança da Informação
-- 💻 Desenvolvimento Front-End
-- 🌐 HTML, CSS, JavaScript
-- ⚙️ Versionamento com Git
-- 🕵️‍♂️ Análise de Vulnerabilidades
-- 📊 Proteção de Dados e Privacidade
+💻 Projetos: Modelos de previsão, análise exploratória de dados, NLP, visualização de dados.
+🛠️ Ferramentas: Python, SQL, Power BI,IoT em Agricultura.
+🌍 Interesses: Agricultura de Precisão, Sustentabilidade, Modelagem Climática, Big Data no Agronegócio.
+🎯 Objetivo: Contribuir para a transformação digital da agricultura e apoiar práticas agrícolas sustentáveis através da ciência de dados.
 
 #### 📚 Educação e Formação
 
-- 🎓 Estudante de Segurança da Informação na UNIP
+- 🎓 Estudante de Ciência de Dados
 
 
 #### 🤝 Vamos Colaborar!
 
-Estou sempre entusiasmado com a possibilidade de colaborar em projetos interessantes. Se você está interessado em discutir segurança, front-end ou apenas quer trocar ideias, sinta-se à vontade para entrar em contato.
+Estou sempre entusiasmado com a possibilidade de colaborar em projetos interessantes. Se você está interessado em discutir Ciência de Dados ou apenas quer trocar ideias, sinta-se à vontade para entrar em contato.
 
 
 <h3 align="left">Connect with me:</h3>
