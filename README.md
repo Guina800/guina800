@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="A" /> </p>
 
-💻 Projetos: Modelos de previsão, análise exploratória de dados, NLP, visualização de dados.
-🛠️ Ferramentas: Python, SQL, Power BI,IoT em Agricultura.
-🌍 Interesses: Agricultura de Precisão, Sustentabilidade, Modelagem Climática, Big Data no Agronegócio.
+💻 Projetos: Modelos de previsão, análise exploratória de dados, NLP, visualização de dados.<br>
+🛠️ Ferramentas: Python, SQL, Power BI,IoT em Agricultura.<br>
+🌍 Interesses: Agricultura de Precisão, Sustentabilidade, Modelagem Climática, Big Data no Agronegócio.<br>
 🎯 Objetivo: Contribuir para a transformação digital da agricultura e apoiar práticas agrícolas sustentáveis através da ciência de dados.
 
 #### 📚 Educação e Formação
