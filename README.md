@@ -64,13 +64,10 @@ Hoje direciono minha carreira para a área de **Dados**, unindo experiência pr�
 
 ---
 
-### 👾 Contribution Graph (Pacman)
+### 👾 Contribution Graph 
+<img src="https://raw.githubusercontent.com/guina800/guina800/output/snake.svg" alt="Snake animation" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guina800/Guina800/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guina800/Guina800/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guina800/Guina800/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ---
 
