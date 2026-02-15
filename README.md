@@ -4,10 +4,6 @@
 🎓 Estudante de Ciência de Dados | 📊 Análise de Dados | ⚙️ Engenharia de Dados
 </h3>
 
----
-
-<img align="right" height="170" src="https://avatars.githubusercontent.com/u/73242774?v=4" />
-
 ### 🚀 Sobre mim
 
 🎓 Estudante de **Ciência de Dados**, com foco em **Análise de Dados e Engenharia de Dados**, em constante evolução técnica e prática.
