@@ -37,18 +37,6 @@ Hoje direciono minha carreira para a área de **Dados**, unindo experiência pr�
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Guina800&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guina800&layout=compact&theme=dracula"/>
-
-</div>
-
----
-
 ## 🔥 Sequência de Contribuições
 
 <div align="center">
@@ -60,4 +48,5 @@ Hoje direciono minha carreira para a área de **Dados**, unindo experiência pr�
 ## 🐍 Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/guina800/guina800/output/snake.svg
+  <img src="https://activity-graph.herokuapp.com/graph?username=Guina800&theme=dracula&hide_border=true" alt="Contribuições GitHub"/>
+</div>
