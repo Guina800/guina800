@@ -19,7 +19,7 @@
 - Organização e estruturação de informações  
 - Tomada de decisão baseada em dados  
 
-Hoje direciono minha carreira para a área de **Dados**, unindo experiência prática com fundamentos técnicos sólidos em engenharia e análise.
+Hoje direciono minha carreira para a área de **Dados**, unindo experiência prática com fundamentos técnicos sólidos.
 
 ---
 
@@ -38,11 +38,11 @@ Hoje direciono minha carreira para a área de **Dados**, unindo experiência pr�
 ### 💻 Tecnologias que utilizo
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35"/>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" />
+  <img src="https://skillicons.dev/icons?i=py" height="35"/>
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35"/>
 </div>
 
 ---
@@ -50,13 +50,16 @@ Hoje direciono minha carreira para a área de **Dados**, unindo experiência pr�
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Guina800&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guina800&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Guina800&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guina800&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-### 🔥 Streak Stats
+### 🔥 Sequência de Contribuições
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Guina800&theme=tokyonight&hide_border=true"/>
@@ -64,10 +67,13 @@ Hoje direciono minha carreira para a área de **Dados**, unindo experiência pr�
 
 ---
 
-### 👾 Contribution Graph 
-<img src="https://raw.githubusercontent.com/guina800/guina800/output/snake.svg" alt="Snake animation" />
+### 🐍 Gráfico de Contribuições
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guina800/Guina800/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guina800/Guina800/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Guina800/Guina800/output/snake.svg" />
+</picture>
 
 ---
 
@@ -88,10 +94,10 @@ Busco oportunidades que me permitam crescer tecnicamente e atuar com projetos de
 
 <div align="left">
   <a href="mailto:agnaldogonzaga141@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/agnaldo-gonzaga-6297ba212/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
