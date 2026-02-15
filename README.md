@@ -1,49 +1,72 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">👋 Olá! Eu sou Agnaldo Gonzaga</h1>
 
-###
+<h3 align="center">🎓 Estudante de Ciência de Dados | 📊 Análise de Dados | ⚙️ Engenharia de Dados</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+<img align="right" height="160" src="https://avatars.githubusercontent.com/u/73242774?v=4" />
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 🚀 Sobre mim
 
-###
+🎓 Estudante de **Ciência de Dados**, com foco em **Análise de Dados e Engenharia de Dados**, em constante evolução técnica e prática.
+
+🌱 Atualmente atuo como **Analista de Controle Agrícola**, onde desenvolvi uma forte base analítica trabalhando com:
+
+- Controle e monitoramento de processos  
+- Acompanhamento de indicadores  
+- Organização e estruturação de informações  
+- Tomada de decisão baseada em dados  
+
+Hoje estou direcionando minha carreira para a área de **Dados**, unindo minha experiência prática com fundamentos técnicos sólidos.
+
+---
+
+### 🛠️ Tecnologias e Conhecimentos
+
+- 🗄️ SQL (SQL Server e MySQL)  
+- 🧱 Modelagem Relacional e Dimensional  
+- 🏗️ Data Warehouse (Arquitetura Bronze, Silver e Gold)  
+- 🔄 Processos de ETL  
+- 🧹 Limpeza e Transformação de Dados  
+- 📊 Análise Exploratória de Dados (EDA)  
+- 🐍 Python para análise de dados  
+
+---
+
+### 💻 Tecnologias que utilizo
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="SQL Server logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="Python logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="MySQL logo"  />
 </div>
 
-###
+---
+
+### 🎯 Objetivo Profissional
+
+Atuar como **Analista de Dados ou Engenheiro de Dados Júnior**, contribuindo com:
+
+✔️ Estruturação e organização de bases de dados  
+✔️ Construção de pipelines eficientes  
+✔️ Garantia de qualidade e consistência dos dados  
+✔️ Geração de insights estratégicos  
+
+---
+
+### 📫 Contato
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="mailto:agnaldogonzaga141@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/agnaldo-gonzaga-6297ba212/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+⭐ Sempre aprendendo, sempre evoluindo e transformando dados em decisões.
