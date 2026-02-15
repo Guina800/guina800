@@ -45,7 +45,7 @@ Hoje direciono minha carreira para a área de **Dados**, unindo experiência pr�
 
 ---
 
-## 🐍 Gráfico de Contribuições GitHub
+##  Gráfico de Contribuições GitHub
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guina800&theme=dracula&hide_border=true" alt="Contribuições GitHub"/>
