@@ -40,13 +40,13 @@ Hoje direciono minha carreira para a área de **Dados**, unindo experiência pr�
 ## 🔥 Sequência de Contribuições
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=guina800&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5"/>
+  <img src="https://streak-stats.demolab.com?user=Guina800&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5"/>
 </div>
 
 ---
 
-## 🐍 Gráfico de Contribuições
+## 🐍 Gráfico de Contribuições GitHub
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Guina800&theme=dracula&hide_border=true" alt="Contribuições GitHub"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guina800&theme=dracula&hide_border=true" alt="Contribuições GitHub"/>
 </div>
